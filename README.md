@@ -18,7 +18,7 @@
    command, cause we need to download the vagrant box.
 
 
-1. Use ```vagrant ssh server``` and ```vagrant ssh server``` to
+1. Use ```vagrant ssh server``` and ```vagrant ssh user``` to
    connect to your machines.
 
 1. Provision
